@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "name": "Walk Dog",
+      "description": "Walk my neighbors dog on 1/5.",
+      "dueDate": "01/05/2024",
+      "completed": false
+    },
+    {
+      "name": "Grocery Shop",
+      "description": "Weekly grocery shopping at Trader Joes and Aldis.",
+      "dueDate": "02/05/2024",
+      "completed": false
+    },
+    {
+      "name": "Car Wash",
+      "description": "Take car to car wash.",
+      "dueDate": "01/29/2024",
+      "completed":false
+    },
+    {
+      "name": "Fold Clothes",
+      "description": "Finished laundry, just have to fold clothes and put them away.",
+      "dueDate": "01/28/2023",
+     "completed": true
+    },
+    {
+      "name": "Call Mom",
+      "description": "Mom wanted me to call her about Dad's birthday after she gets back from the trip.",
+      "dueDate": "01/30/2024",
+      "completed": true
+    }
+  ]
+}
